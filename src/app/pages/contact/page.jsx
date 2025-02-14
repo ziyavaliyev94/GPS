@@ -9,7 +9,7 @@ const ContactPage = () => {
     <section className="contacts">
       <div className="contact-container">
         <div className="contact-form-container">
-          <h1 className="title">Bizimlə Əlaqə</h1>
+          <h1 className="title">Bizimlə Əlaqə qurun</h1>
           <p className="description">Bizimlə əlaqə saxlayaraq suallarınızı verə bilərsiniz.</p>
 
           <Formik
